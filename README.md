@@ -1,5 +1,7 @@
 # 📱 Análisis de clientes de ConnectaTel
 
+![Análisis ConnectaTel](Portada%20del%20proyecto%201200%C3%97627%402x.png)
+
 Proyecto de análisis de datos de una empresa de telecomunicaciones en México y Colombia. Analicé cómo usan los clientes sus llamadas y mensajes para encontrar patrones, detectar outliers y crear segmentos que ayuden a mejorar los planes.
 
 ## Datos
